@@ -1,0 +1,18 @@
+current directory: /Users/j.jang/workspace/suggester-year-end-party/vendor/bundle/ruby/2.6.0/gems/jaro_winkler-1.5.4/ext/jaro_winkler
+/Users/j.jang/.rbenv/versions/2.6.5/bin/ruby -I /Users/j.jang/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20191223-20227-pxciu2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/j.jang/workspace/suggester-year-end-party/vendor/bundle/ruby/2.6.0/gems/jaro_winkler-1.5.4/ext/jaro_winkler
+make "DESTDIR=" clean
+
+current directory: /Users/j.jang/workspace/suggester-year-end-party/vendor/bundle/ruby/2.6.0/gems/jaro_winkler-1.5.4/ext/jaro_winkler
+make "DESTDIR="
+compiling adj_matrix.c
+compiling codepoints.c
+compiling jaro.c
+compiling jaro_winkler.c
+linking shared-object jaro_winkler/jaro_winkler_ext.bundle
+
+current directory: /Users/j.jang/workspace/suggester-year-end-party/vendor/bundle/ruby/2.6.0/gems/jaro_winkler-1.5.4/ext/jaro_winkler
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 jaro_winkler_ext.bundle ./.gem.20191223-20227-15jyjqh/jaro_winkler
